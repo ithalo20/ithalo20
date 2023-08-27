@@ -2,7 +2,9 @@
 
 ### Olá me chamo Ithalo, tenho 24 anos, moro em Guarulhos/SP e estou iniciando minha carreira como Desenvolvedor Java, tenho conhecimento básico quase intermediário em Python.
 
-<img align="right" height ="350" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+
+<img align="right" height ="390" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 📚 Hard Skills: Git, GitHub, Python, Windows, Google Worskpace, Office entre outros
 - 🧍🏽‍♂️ Soft Skills: Pró-ativo, comunicativo, adaptativo, criativo, resolução de problemas e persistente.
