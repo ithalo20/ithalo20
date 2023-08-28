@@ -1,6 +1,6 @@
-# Biografia ✍️
+## Olá, Seja muito bem vindo!! Prazer me chamo, Ithalo 😊
 
-### Olá me chamo Ithalo, tenho 24 anos, moro em Guarulhos/SP e estou iniciando minha carreira como Desenvolvedor Java, tenho conhecimento básico quase intermediário em Python.
+### Tenho 24 anos, moro em Guarulhos/SP e estou aprendendo mais uma linguagem no caso Java e futuramente pretendo aprender Kotlin, tenho conhecimento básico quase intermediário em Python.
 
 
 
