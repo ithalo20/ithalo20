@@ -1,4 +1,4 @@
-## Olá, Seja muito bem vindo!! Prazer me chamo, Ithalo 😊
+## Olá, Seja muito bem vindo!! Prazer me chamo, Ithalo
 
 ### Tenho 24 anos, moro em Guarulhos/SP e estou aprendendo mais uma linguagem no caso Java e futuramente pretendo aprender Kotlin, tenho conhecimento básico quase intermediário em Python.
 
@@ -14,7 +14,7 @@
 
 ![Ithalo GitHub stats](https://github-readme-stats.vercel.app/api?username=ithalo20&show_icons=true&theme=tokyonight)
 
-![Ithalo Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ithalo20&layout=compact&langs_count=10&theme=tokyonight)
+<!.. ![Ithalo Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ithalo20&layout=compact&langs_count=10&theme=tokyonight) ..>
 
 ## <img align="left" height ="30" width="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">&nbsp;Ferramentas
 
