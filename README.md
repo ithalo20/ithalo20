@@ -1,12 +1,12 @@
 ## Olá, Seja muito bem vindo!! Prazer me chamo, Ithalo
 
-### Tenho 24 anos, moro em Guarulhos/SP e estou aprendendo mais ferramentas voltado para a cultura DevOps no caso Kubernetes,AWS, OCI entre outras ferramentas, juntamente tenho conhecimentos em Docker, ShellScript, Linux, um pouco de Ansible.
+### Tenho 24 anos, sou de Guarulhos/SP e estou aprendendo mais ferramentas voltado para a cultura DevOps no caso Kubernetes, AWS, OCI entre outras ferramentas, juntamente tenho conhecimentos em Docker, ShellScript, Linux, um pouco de Ansible.
 
 
 
 <img align="right" height ="390" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 📚 Hard Skills: Git, GitHub, Docker, Windows, Linux,Google Worskpace, 365 entre outros
+- 📚 Hard Skills: Git, GitHub, Docker, Windows, Linux, Google Worskpace, 365 entre outros
 - 🧍🏽‍♂️ Soft Skills: Pró-ativo, comunicativo, adaptativo, criativo, resolução de problemas e persistente.
 - 🎮 Amante do mundo dos games 
 
@@ -21,10 +21,11 @@
 <div style="display: inline_block">
   <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Gitlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 </div>
 
 <br>
