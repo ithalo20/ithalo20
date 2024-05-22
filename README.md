@@ -19,7 +19,10 @@
 ## <img align="left" height ="30" width="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">&nbsp;Ferramentas
 
 <div style="display: inline_block">
+  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
