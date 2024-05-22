@@ -1,12 +1,12 @@
 ## Olá, Seja muito bem vindo!! Prazer me chamo, Ithalo
 
-### Tenho 24 anos, moro em Guarulhos/SP e estou aprendendo mais uma linguagem no caso Java e futuramente pretendo aprender Kotlin, tenho conhecimento básico quase intermediário em Python.
+### Tenho 24 anos, moro em Guarulhos/SP e estou aprendendo mais ferramentas voltado para a cultura DevOps no caso Kubernetes,AWS, OCI entre outras ferramentas, juntamente tenho conhecimentos em Docker, ShellScript, Linux, um pouco de Ansible.
 
 
 
 <img align="right" height ="390" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 📚 Hard Skills: Git, GitHub, Python, Windows, Google Worskpace, Office entre outros
+- 📚 Hard Skills: Git, GitHub, Docker, Windows, Linux,Google Worskpace, 365 entre outros
 - 🧍🏽‍♂️ Soft Skills: Pró-ativo, comunicativo, adaptativo, criativo, resolução de problemas e persistente.
 - 🎮 Amante do mundo dos games 
 
