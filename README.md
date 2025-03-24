@@ -1,6 +1,6 @@
 ## Olá, Seja muito bem vindo!! Prazer me chamo, Ithalo
 
-### Tenho 24 anos, sou de Guarulhos/SP e estou aprendendo mais ferramentas voltado para a cultura DevOps no caso Kubernetes, AWS, OCI entre outras ferramentas, juntamente tenho conhecimentos em Docker, ShellScript, Linux, Ansible, um de Python.
+### Tenho 24 anos, sou de Guarulhos/SP e estou aprendendo mais ferramentas voltado para a cultura DevOps no caso Kubernetes, AWS, OCI entre outras ferramentas, juntamente tenho conhecimentos em Docker, ShellScript, Linux, Ansible, um pouco de Python.
 
 
 
